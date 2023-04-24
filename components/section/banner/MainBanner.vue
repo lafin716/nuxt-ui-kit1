@@ -21,7 +21,7 @@
                 flat
               >
                  <NuxtLink to="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/" target="_blank" class="text-decoration-none  text-white">
-                  Download Free
+                  나의 소개
                  </NuxtLink>
               </v-btn>
               <v-btn
@@ -32,7 +32,7 @@
                 color="white"
                 flat
               >
-                Upgrade to Pro
+                포트폴리오
               </v-btn>
             </div>
           </div>
