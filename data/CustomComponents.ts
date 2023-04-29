@@ -6,7 +6,7 @@ const headerMenu = [
   },
   {
     title: "About Me",
-    href: "/",
+    href: "/about",
   },
   {
     title: "Work",
